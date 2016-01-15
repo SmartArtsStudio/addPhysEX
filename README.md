@@ -1,3 +1,2 @@
-
-![addphysextension graphic](https://cloud.githubusercontent.com/assets/8098454/12345469/3dcde7b8-bb9d-11e5-8737-4d83ef673554.png)
+![addphysextension graphic](https://cloud.githubusercontent.com/assets/8098454/12345612/46e22812-bb9f-11e5-93c7-731e0d9c2782.png)
 
